@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="BGC Contarcting Automation"> 
+ 
+ <test name="Scheduling and Project Module">
+    <classes>
+      <class name="com.BGCContracting.scheduling.Projects"/> 
+      </classes>
+  </test>
+</suite>
